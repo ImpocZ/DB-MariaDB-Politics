@@ -74,4 +74,5 @@ Tento SQL dump obsahuje částečně naplněnou relační databázi, která mapu
 - Jsou zaneseny i historické změny (např. dva záznamy pro Babišovu vládu, přestup Lipavského).
 - Všechny tabulky mají správné cizí klíče a indexy pro rychlé vyhledávání.
 
-## reference modelu
+## Reference modelu
+![DB model](db_model.png)
